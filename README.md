@@ -4,7 +4,7 @@ Este é um formulário de cadastro simples, onde você pode inserir seu nome e e
 
 ## 💻 Acesse o site
 
-[Clique aqui para acessar o formulário funcionando](https://meuformulario.infinityfreeapp.com)
+meuformulario.infinityfreeapp.com
 
 ## Tecnologias usadas:
 - PHP
